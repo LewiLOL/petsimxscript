@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LewiLOL/petsimx/main/petsimx"))();
+--op autofarm in pet sim x
